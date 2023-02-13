@@ -1,5 +1,4 @@
-# PythonCode
-This folder contains all of my Python projects
+
 
 # PythonCode
 This folder contains all of my Python projects. I use it to keep track of all my programming assignments and practice exercises. 
