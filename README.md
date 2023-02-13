@@ -1,5 +1,7 @@
 # PythonCode
+This folder contains all of my Python projects
 
+# PythonCode
 This folder contains all of my Python projects. I use it to keep track of all my programming assignments and practice exercises. 
 By organizing my work in this way, I can easily access and refer to my previous projects as I continue to learn and improve my skills in Python.
 
